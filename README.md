@@ -5,8 +5,8 @@ presentations, code, and diagrams
 ## Team members information
 - Author: Ozzie Cano
 - Email: ozziec86@csu.fullerton.edu
-- Author: 
-- Email: 
+- Author: Liti Foloifo
+- Email: lfoloifo@csu.fullerton.edu
 - Author: 
 - Email: 
 - Author: 
